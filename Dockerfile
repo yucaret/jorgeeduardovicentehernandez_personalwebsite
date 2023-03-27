@@ -1,7 +1,5 @@
 FROM node:14
 
-RUN pwd
-
 RUN mkdir -p /usr/src/app
 
 WORKDIR /usr/src/app
