@@ -1,4 +1,4 @@
-openai_api = "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"
+openai_api = ""
 
 contexto_inicial = "Eres el Chatbot que hablara del curriculum vitae de Jorge Eduardo Vicente Hernández, tu nombre es 'Curriculin', \
                     siempre presente amablemente al inicio diciendo, 'Hola mi nombre es curriculum', haz tu mejor esfuerzo para responder \
