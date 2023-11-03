@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Chat en tiempo real</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Agrega el enlace al archivo CSS -->
+        <link href="/css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <h2 class="mb-0">
+                Chat with my 
+                <span class="text-primary">curriculum vitae</span>
+            </h2>
+            <div class="subheading mb-5">
+                Lima, Perú
+                <a href="mailto:name@email.com">jorge.eduardo@vicenteh.com</a>
+            </div>
+            <p class="lead mb-5">
+                Thank you for visiting this chat page! It has been developed with the python programming language, the openai langchain library.
+                <br>
+                Here, you will have the opportunity to chat with my resume and ask questions about my professional experience in real time.
+                <br>
+                We hope you enjoy this unique conversation experience.
+            </p>
+            <div id="chat">
+                <form id="message-form" method="POST">
+                    <input type="text" id="message-input" name="mensaje" placeholder="Escribe un mensaje">
+                    <button type="submit">Enviar</button>
+                </form>
+                <br><br>
+                <h4>Conversation History</h4>
+                <div id="messages">
+                    <table>
+                        <tbody>
+                            {% for mensaje in conversacion %}
+                                <tr>
+                                    <td><img src="https://img.icons8.com/external-nawicon-flat-nawicon/32/external-Headhunting-recruitment-nawicon-flat-nawicon.png" alt="Usuario"></td>
+                                    <td><strong>Headhunter:</strong> <pre style="font-family: monospace; white-space: pre-wrap;">{{ mensaje.usuario }}</pre></td>
+                                </tr>
+                                <tr>
+                                    <td><img src="https://img.icons8.com/external-vectorslab-outline-color-vectorslab/32/external-Talk-Bot-education-and-science-vectorslab-outline-color-vectorslab.png" alt="Chatbot"></td>
+                                    <td><strong>Chatbot:</strong> <pre style="font-family: monospace; white-space: pre-wrap;">{{ mensaje.chatgpt }}</pre></td>
+                                </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
