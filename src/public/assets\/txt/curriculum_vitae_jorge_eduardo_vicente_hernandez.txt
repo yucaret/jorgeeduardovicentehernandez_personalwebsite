@@ -1,1 +1,146 @@
+# Curriculum Viate de Jorge Eduardo Vicente Hernández
 
+## Acerca de Jorge Eduardo Vicente Hernández
+Jorge Eduardo Vicente Hernández es un entusiasta apasionado de los datos con una sólida formación en ingeniería informática y especializado en análisis de datos. Le gusta recopilar y analizar datos para descubrir información valiosa. Su gusto por la solución de problemas y la innovación le impulsa a desarrollar soluciones creativas que ayuden a las empresas a tomar decisiones basadas en datos, optimizar procesos y mejorar el rendimiento de los mismos.
+
+Con un fuerte compromiso con la excelencia, busca continuamente oportunidades de crecimiento profesional y se mantiene al día con las últimas tendencias y avances en el campo del análisis de datos e inteligencia Artificial (Este Chatbot es prueba de ello).
+
+Él se encontraría emocionado de contribuir con sus habilidades y experiencia para impulsar el éxito en una empresa dinámica y centrada en los datos.
+
+## Hobbies y Actividades extracurriculares
+Jorge Eduardo Vicente Hernández es coleccionista de figuras de acción, el colecciona los personajes que formaron parte de su infancia y adolescencia; tambien le gusta las lecturas de aventura y ciencia ficción, actualmente lee el maga de one piece e indica que actualmente es su obra favorita; tambien le gusta el deporte, antes practicaba deportes de montaña pero ahora se dedica a hacer deportes de gimnasio, el piense que el cuerpo debe de estar en sintonización con la mente, no solamente se debe de ejercitar el cerebro, ambos son un uno para él.
+
+## Datos de Contacto de Jorge Eduardo Vicente Hernández
+Los datos de contacto de Jorge Eduardo Vicente Hernández son:
+
+Correo electrónico o email: jorge.eduardo@vicenteh.com
+Página web profesional: https://jorgeeduardo.vicenteh.com
+Profile de linkedin: https://www.linkedin.com/in/joedvihe/
+Github de proyectos: https://github.com/yucaret
+
+## Tiempo de disponibilidad en caso quieran contratarlo
+Según ley es un mes, pero Jorge Eduardo Vicente Hernández puede negociar con la empresa en la que actualmente labora para poder retirarse en 3 semanas. 
+
+## Estudios en Instituciones o Registros de Educación de Jorge Eduardo Vicente Hernández
+Jorge Eduardo Vicente Hernández acabo la universidad en el año 2005 y desde esa época ha venido estudiando diversos cursos, los que vienen a continuación son los que el considera los más importantes:
+
+### Micro Master en Massachusetts Institute Technology (MITx)
+El micromaster inicio en el mes de agosto del 2022 y actualmente continua en curso, este culminará en agosto del 2024, la especialización del micromaster es en ciencia de datos y Jorge Eduardo Vicente Hernández ya va cursando las materias de: 
+
+- Statistical Modeling and Computation in Application
+- Fundamentals of Statistics
+- Machine Learning with Python - From Linear Models to Deep Learning
+- Probability - The Science of Uncertainty and Data
+
+### Especialización en el Instituto Europeo de Estudios Empresariales (INESEM)
+Esta especialización inicio en Julio 2018 y culmino en febrero 2019, esta especialización estaba enfocada en ciencia de datos y análisis de datos, lo culminó satisfactoriamente. Los cursos que llevo fueron:
+
+- Bases de datos relacionales
+- Bases de Datos NOSQL y el Almacenamiento Escalable
+- Python y el análisis de datos
+- R como herramienta para big data
+- Pre-procesamiento & procesamiento de datos
+- Análisis de los datos
+
+### Curso en Tecnológico de Monterrey
+Este curso se desarrolló en el 2018 y fue acerca de Design Thinking, los temas que se tocaron en el curso fueron:
+
+- Innovación y Design Thinking.
+- Inspiración.
+- Desarrollo de Prototipo.
+- Evaluación de Prototipo.
+- Aplicación de Producto
+
+### Titulación en Pontificia Universidad Católica del Perú
+Jorge Eduardo Vicente Hernández obtuvo su título de ingeniero después de llevar el curso de titulación en su alma mater (Pontificia Universidad Católica del Perú), el curso lo llevo entro los periodos de julio del 2009 y diciembre del 2009.
+
+### Bachillerato en Pontificia Universidad Católica del Perú
+Jorge Eduardo Vicente Hernández curso la universidad desde agosto de 1999 hasta Julio del 2005, acabo en el décimo superior.
+
+## Certificaciones
+Jorge Eduardo Vicente Hernández ha realizado varios cursos de certificación en línea, gracias a la tecnología del internet y ha obtenido varios certificados, entre los más importantes son:
+
+- Fundamentals of Statistics: Este certificado fue parte del micro master en Massachusetts Institute Technology, el número de credencial es 85ad926f68e04e7dbf7080ac3fe932b7, y puedes ver el certificado en el siguiente link: https://courses.edx.org/certificates/85ad926f68e04e7dbf7080ac3fe932b7
+
+- Machine Learning with Python, From Linear Models to Deep Learning: Este certificado fue parte del micro master en Massachusetts Institute Technology, el número de credencial es 1ddd7305073247cb8524f8629736d371, y puedes ver el certificado en el siguiente link: https://courses.edx.org/certificates/1ddd7305073247cb8524f8629736d371
+
+- Probability, The Science of Uncertainty and Data: Este certificado fue parte del micro master en Massachusetts Institute Technology, el número de credencial es 86ec6b226c444ad6920c39c47166a018, y puedes ver el certificado en el siguiente link: https://courses.edx.org/certificates/86ec6b226c444ad6920c39c47166a018
+
+- Statistics with Python en University of Michigan: Este certificado se culminó en el 2022 y por Coursera; prácticamente fue una especialización compuesta por 3 grandes cursos: Fitting Statistical Models to Data with Python, Inferential Statistical Analysis Python y Understanding and Visualizing Data with Python; el número de credencial es 49GS4TQUH4YC y puedes ver el certificado en el siguiente link: https://www.coursera.org/account/accomplishments/specialization/49GS4TQUH4YC
+
+- Computer Vision 2, Applications: Conjunto de cursos especializados en el desarrollo de aplicaciones con computer vision, dictado por OpenCV.org, se culminó en el año 2020; el número de credencial es c0f3ba3dd5244585b0233f3daf76faf5 y puedes ver el certificado en el siguiente link: https://courses.opencv.org/certificates/c0f3ba3dd5244585b0233f3daf76faf5
+
+- Deep Learning Specialization: Este certificado se culminó en el 2020 y por deeplearning.ai; una de las especialización más interesantes y difíciles, compuesta por 5 grandes curso: Convolutional Neural Networks, Sequence Models, Improving Deep Neural Networks (Hyperparameter tuning, Regularization and Optimization), Structuring Machine Learning Projects y Neural Networks and Deep Learning; el número de credencial es CFEQSDK5DE6N y puedes ver el certificado en el siguiente link: https://www.coursera.org/account/accomplishments/specialization/certificate/CFEQSDK5DE6N
+
+- Machine Learning, Stanford University: Este curso fue más una especialización y un reto para Jorge Eduardo Vicente Hernández, ya que fue uno de los primeros cursos de machine learning y analítica avanzada que llevo en inglés, fue culminado en julio del 2019, el número de credencial es TEAAN6THSV74 y puedes ver el certificado en el siguiente link: https://www.coursera.org/account/accomplishments/verify/TEAAN6THSV74
+
+- Computer Vision 1, Introduction: Fue uno de los primeros cursos en línea que llevo Jorge Eduardo Vicente Hernández, un curso largo y difícil de introducción al computer vision organizado por openCV.org en el 2019, a pesar de solo pasar 4 años esto ya puede considerarse antiguo con respecto a las modelos de artificial intelligence generatives, pero actualmente ayuda a saber qué es lo que internamente estos modelos generativos y explotar su uso al máximo, el número de credencial es da8f132d38834b02a10c60c78a7a1365 y puedes ver el certificado en el siguiente link: https://courses.opencv.org/certificates/da8f132d38834b02a10c60c78a7a1365
+
+## Cursos cortos y gratuitos sin certificación:
+Los cursos gratuitos y en línea que ha llevado Jorge Eduardo Vicente Hernández están más relacionados a modelos de artifitial intelligence generative, los cursos fueron llevados en deeplearning.ai, empresa de Andrew NG, director del laboratorio de Inteligencia Artificial en Stanford, estos cursos son:
+
+- ChatGPT Prompt Engineering for Developers: Fue llevado el 2023, es un curso corto y muy conciso sobre el uso de chatgpt en aplicaciones, 
+- Building Systems with the ChatGPT API
+- LangChain for LLM Application Development
+- LangChain: Chat with Your Data
+- Functions, Tools and Agents with LangChain
+
+## Habilidades técnicas
+Su experiencia de Jorge Eduardo Vicente Hernández le ha permitido conocer varias tecnologías, pero su sentido de autoaprendisaje y actualización tambien le ha permitido conocer muchas más, entre ellas podemos dar a conocer las siguientes:
+
+- Herramientas de Artifitial Intelligence, ejemplo Chatgpt y Langchain.
+- Librerias de Machine Learning en python como por ejemplo Scikit-learn, Numpy, Pandas, NLTK, etcetera y Frameworks como TensorFlow y PyTorch.
+- Herramientas de big data y data warehouse como por ejemplo apache spark y pyspark.
+- Diseño de modelo de datos analíticos como Star Schema o Snowflake Schema.
+- Herramientas de ETL como databricks, data stage, ods y ISSS.
+- Manejos de base de datos como Oracle, SQL Server, Postgresql y Amazon Redshift.
+- Herramientas de visualizacion de datos como qlikView, qlikSense, power bi y RSSS.
+- Tecnicas de extracción de información como Web scraping y unix scripting.
+- Cloud Computing: Microsoft Azure, Amazon Web Services (AWS).
+- Lenguajes de programación como python, Java, C#, PL/SQL, T-SQL y otros.
+- Metodologías: Agile, MLOps
+- Analisis cuantitativos.
+
+## Idiomas
+Los idiomas que conoce Jorge Eduardo Vicente Hernández son:
+- Ingles a un nivel avanzado, y continúa estudiándolo actualmente para mejorarlo.
+- Español, su idioma natal, ya que Jorge Eduardo Vicente Hernández nació en Lima, Perú, en Sudamérica.
+
+## Experiencia Profesional
+Jorge Eduardo Vicente Hernández empezó a trabajar desde antes de culminar la universidad, pero podríamos decir que su experiencia data desde 2005, inicio como practicante en el área de inteligencia de negocios y desde allí continua su pasión por los datos, a continuación, están sus experiencias más relevantes:
+
+### Consultor Independiente
+- Chatbot con chtgpt  para Exodus Consulting, consultora de EEUU, donde trabajo para un proyecto desde julio 2023 a agosto del 2023: Allí lideró y desarrollo un chatbot con tecnologías como python y librerías de open.ia para chatgpt, el chatbot actualmente se encuentra en producción en una plataforma cloud digital ocean, el objetivo es tener un chatbot que simule ser una persona y que sea más natural y amigable para la comunicación con los clientes.
+
+### Data Specialist en la empresa Enel Distribución Perú
+Labora desde agosto del 2020, sus logros son:
+- NLP para la reclasificación de reclamaciones: Presentó ante gerencia y desarrolló una solución basada en NLP que reclasifica los reclamos. El proceso tiene un 85% de confianza de certeza y reclasifica 15,000 reclamos al mes.
+- Delivery Journey: Desarrolló un proceso y un dashboard que identifica la desincronización de los recibos digitales entre el sistema de facturación y el sistema de ventas, esta solución redujo este problema y se logró tener una sincronización de un 98% al mes.
+- Billing RPA: Creó un proceso RPA que respalda el proceso core de facturación. Este proceso ayudó en un 30% a reducir el tiempo de análisis mensual, brindando la oportunidad de realizar un análisis más profundo de casos especiales.
+- FOSE Upgrade: Garantizo las pruebas sin errores, una puesta en producción sin incidencias y una post producción exitosa. Logró esto creando un proceso informático basado en Python que simulaba el cargo del beneficio, validando de esa manera el nuevo proceso FOSE.
+- Billing Journey: Este proceso y dashboard los creé para identificar los diferentes estados de facturación y conocer cómo cambia los estados de toma de lectura hasta la facturación, el principal objetivo de este proceso es reducir la facturación promedio.
+- Measurement of electricity consumption with computer vision and deep learning:
+Link: https://www.youtube.com/watch?v=gA4QVSI-iPA&t=1s
+
+### Information Security Coordinator en la empresa de Enel Distribución Perú
+Laboró desde setiembre del 2016 a junio del 2020, sus logros son:
+- Aprobé la auditoría del Ministerio de Justicia sobre seguridad de la información: Esta auditoría se realizó en el año 2019 con el objetivo de validar que Enel está dando cumplimiento a la ley 29733, ley de protección de datos personales, esta auditoría se logró pasar con 0 incidentes.
+- Supervisé y aseguré el cumplimiento de las políticas y directivas de seguridad de la información. Este seguimiento se gestionó y administró en conjunto con el área de comunicaciones a través de capacitaciones trimestrales y evaluaciones trimestrales.
+- Fortalecí el cumplimiento de la Ley 29733 (Protección de Datos Personales) en todos los procesos del Grupo Enel. Logré este fortalecimiento mediante la creación de capacitaciones semestrales, evaluaciones semestrales y transmisión de audiovisuales durante todos los años de mi gestión con el objetivo de que todo el personal de Enel este capacitado.
+- Desarrolle cuadros de mando para la gerencia de Servicios y Seguridad, paneles de información necesarios para medir el gasto del presupuesto asignado a la gerencia.
+
+### Process Improvement Specialist en Enel Distribución Perú
+Laboró desde julio del 2012 a setiembre del 2016
+- En su rol de especialista ha propuesto, desarrollado y gestionado soluciones analíticas para la gerencia de marketing de Enel. Soluciono la problemática de procesos manuales con Excel y macros, permitiendo acceder a datos en tiempo real y visualizar la evolución. Utilizo QlikView y procesos en backend para mostrar la historia de la información en paneles, gracias a esas mejoras enel pudo tomar decisiones más informadas y en tiempos casi en línea.
+- Mejoró los procesos de extracción de datos para la subgerencia de operaciones de Enel, superando la problemática de procesos manuales y uso de macros que tomaban 5 horas. Esta mejora se implementó con Integration Services, SQL Server y QlikView, reduciendo el proceso a solo 5 minutos. Logro una extracción eficiente y creo soluciones de análisis de datos para identificar riesgos y vulnerabilidades en las operaciones, permitiendo medidas proactivas y un funcionamiento óptimo.
+- A su vez, como responsable del despliegue de sistemas en producción, se encargaba de evaluar posibles incidencias, decidía si este continuaba o no, todo en comunicación con la gerencia de market. Todos los despliegues gestionados por él fueron exitosos y sin retrasos.
+
+### BI team Leader and SME (Special Matter Expert) en la empresa de Hewlett - Packard Perú S.R.L.
+Laboró desde julio del 2010 hasta Julio 2012
+- Gestiono y desarrollo los proyectos de valor del cliente y churn, participo en las etapas de análisis, desarrollo de procesos de explotación, diseño de tablas y paneles de control. El objetivo de estas soluciones fue conocer al cliente y a los posible clientes que se retiraban del servicio.
+- Logró reducir el tiempo de ingesta de datos de los procesos de 8 horas a 5 horas.
+
+### Senior Business Intelligence Analyst, Nextel Perú S.A.
+Laboró desde agosto del 2008 hasta junio del 2010
+- Lidero el proyecto de datamart de telefonía prepaga, el objetivo fue conocer al cliente actual prepago para aumentar la base de clientes de este servicio.
+- Como responsable, se encargó de garantizar el correcto funcionamiento de los procesos ETL en el entorno de producción. Esto involucró el monitoreo constante, el mantenimiento y la implementación de mejoras para asegurar la correcta extracción, transformación y carga de datos. Gracias a su gestión efectiva se logró que estos procesos funcionaran sin incidentes.
