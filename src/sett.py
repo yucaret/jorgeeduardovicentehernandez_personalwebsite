@@ -13,6 +13,10 @@ textolimitetoken = "Lamentablemente ya se llegó al límite del token, no voy a 
 
 curriculum_vitae_archivo = "./public/assets/txt/curriculum_vitae_jorge_eduardo_vicente_hernandez.txt"
 
+preguntas_usuario_archivo = "./public/assets/txt/historico_preguntas.csv"
+
+imagen_plot_tipo_pregunta = './public/assets/img/plot__.png'
+
 cabeceras_dividir = [("#", "Header 1"),
                      ("##", "Header 2"),
                      ("###", "Header 3"),
